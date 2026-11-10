@@ -18,8 +18,8 @@ Data Source (if any):
   (100 positive / 100 negative; 160 train / 40 test); no AI-generated text.
 
 Video Presentation Details:
-- Video URL: [Paste your accessible YouTube / Google Drive / Dropbox link here]
-- Video Duration: [e.g., 5 min 30 sec]
+- Video URL: https://1drv.ms/f/c/1c11c2f2d34565f5/IgBGizS-tlS2SbGKTYcWtORcAX3fjNXG9Dp8-gfzfpuCdLY?e=lZsLsD
+- Video Duration: 11 min 15 sec
 - Video File Format: .mp4 (or standard streamable link)
 
 Language Declaration:
@@ -28,11 +28,11 @@ Language Declaration:
   (Note: If YES, book your 5-question interview at: https://calendar.app.google/J5EejvwkKgtPE8oKA)
 
 Verification Checklist:
-[ ] My face is clearly visible on camera throughout the video presentation.
-[ ] The video sharing link is public / accessible to UIC instructors without permission requests.
-[ ] I showed my project directory and train/test dataset structure.
-[ ] I demonstrated tokenization, vocabulary counts, and class prior/word likelihood calculations.
-[ ] I showed step-by-step prediction on an input sentence with log probabilities.
-[ ] I demonstrated the live data mutation test (modifying training data and showing dynamic recalculation).
-[ ] I evaluated the test set and tested live on camera with multiple unseen sentences.
+[x] My face is clearly visible on camera throughout the video presentation.
+[x] The video sharing link is public / accessible to UIC instructors without permission requests.
+[x] I showed my project directory and train/test dataset structure.
+[x] I demonstrated tokenization, vocabulary counts, and class prior/word likelihood calculations.
+[x] I showed step-by-step prediction on an input sentence with log probabilities.
+[x] I demonstrated the live data mutation test (modifying training data and showing dynamic recalculation).
+[x] I evaluated the test set and tested live on camera with multiple unseen sentences.
 [ ] If claiming +30% bonus: My entire dataset and demonstration are in a language other than English.
