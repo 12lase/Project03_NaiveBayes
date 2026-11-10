@@ -4,13 +4,18 @@ Video Presentation Submission & Language Declaration
 ======================================================================
 
 Student Information:
-- Full Name: [Replace with your Full Name]
-- UIN: [Replace with your 9-digit UIN]
-- NetID: [Replace with your UIC NetID]
+- Full Name: Tio Oguntade
+- UIN: 670893152
+- NetID: togun9
 
 Data Source (if any): 
-- Source 1: [Replace with your data source (if any)]
-- Source 2: [Replace with your data source (if any)]
+- Source 1: UCI Machine Learning Repository, "Sentiment Labelled Sentences" dataset
+  (amazon_cells_labelled.txt, imdb_labelled.txt, yelp_labelled.txt).
+  https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences
+  Citation: Kotzias, D., Denil, M., de Freitas, N., & Smyth, P. (2015).
+  "From Group to Individual Labels using Deep Features." KDD 2015.
+- Source 2: None. Sentences were randomly sampled (fixed seed) from Source 1
+  (100 positive / 100 negative; 160 train / 40 test); no AI-generated text.
 
 Video Presentation Details:
 - Video URL: [Paste your accessible YouTube / Google Drive / Dropbox link here]
@@ -18,8 +23,8 @@ Video Presentation Details:
 - Video File Format: .mp4 (or standard streamable link)
 
 Language Declaration:
-- Language Used in Dataset & Classifier: [e.g., English / Spanish / Burmese / Hindi / Chinese / etc.]
-- Applying for +30% Non-English Language Bonus: [YES / NO]
+- Language Used in Dataset & Classifier: English
+- Applying for +30% Non-English Language Bonus: NO
   (Note: If YES, book your 5-question interview at: https://calendar.app.google/J5EejvwkKgtPE8oKA)
 
 Verification Checklist:
